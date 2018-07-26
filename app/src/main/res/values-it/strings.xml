@@ -330,6 +330,7 @@
   <string name="share_script">Script per %1$s, copia questo messaggio ed aprilo per importarlo. viascript{%2$s}</string>
   <string name="share_online_script">Script per %1$s, copia questo messaggio e apri questo link %2$s Per installarlo.</string>
   <string name="import_url">Apri il link dagli appunti?\nlink: %1$s</string>
+  <string name="import_successful">Importato con successo</string>
   <string name="all_sites">tutti i siti</string>
   <string name="easter_egg">Easter Egg(AD)</string>
   <string name="action_click_to_view">Clicca per visualizzare</string>

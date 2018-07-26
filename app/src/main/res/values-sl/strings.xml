@@ -107,6 +107,7 @@
   <string name="operation_reload">Osveži</string>
   <string name="operation_top">Pomik na vrh</string>
   <string name="operation_bottom">Pomik na dno</string>
+  <string name="operation_input">Vnesite URL</string>
   <string name="operation_newtab">Nov zavihek</string>
   <string name="operation_addbookmark">Dodaj zaznamek</string>
   <string name="operation_closetab">Zapri zavihek</string>

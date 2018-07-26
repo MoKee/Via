@@ -15,7 +15,7 @@
   <string name="action_copy">Bağlantıyı Kopyala</string>
   <string name="action_copy_domain">Etki Alanı Kopyala</string>
   <string name="action_copy_text">Metni Kopyala</string>
-  <string name="action_image_off">Resimleri Gizle</string>
+  <string name="action_image_off">Resimleri gizle</string>
   <string name="action_tools">Araçlar</string>
   <string name="settings">Ayarlar</string>
   <string name="location">Konum Erişimi</string>
@@ -97,8 +97,8 @@
   <string name="hint_password">Şifre</string>
   <string name="untitled">Adsız</string>
   <string name="image_auto">Resimleri Wi-Fi üzerinde göster</string>
-  <string name="image_on">Resimleri Gizle</string>
-  <string name="image_off">Resimleri Göster</string>
+  <string name="image_on">Resimleri gizle</string>
+  <string name="image_off">Resimleri göster</string>
   <string name="title_file_chooser">Dosya seç</string>
   <string name="import_backup">Yer işaretlerini içe aktar</string>
   <string name="bookmark_export_path">Yer işaretleri dışa aktarıldı\n</string>
@@ -114,7 +114,7 @@
   <string name="toast_save_to">Şuraya kaydet: </string>
   <string name="toast_operation_failed">İşlem başarısız.</string>
   <string name="toast_operation_done">İşlem tamam.</string>
-  <string name="volume">Kaydırmak için ses düğmelerini kullan</string>
+  <string name="volume">Kaydırmak için ses tuşlarını kullan</string>
   <string name="intent">Web sitesinin uygulamaya yönlendirmesine izin ver</string>
   <string name="msg_intent">Uygulamanızın açılmasını ister misiniz?</string>
   <string name="dialog_adblock">Varsayılan:Reklamları engellemek için yerel hosts.txt dosyanızı kullanın\n\nÖzel:Depolama hosts.txt dosyasını kullanın, mevcut değilse indirilecektir.</string>
@@ -371,7 +371,11 @@
   <string name="custom_css_special">Özel CSS ekle</string>
   <string name="force_enable_zoom">Zoom Etkinleştirmeyi Zorla</string>
   <string name="set_ua_as">Geçerli kullanıcı aracısını %s olarak ayarla</string>
+  <string name="need_permission_to_install_pkg">Bir. apk dosyası indiriyorsunuz, lütfen indirme dosyalarını yükleyebildiğinizden emin olmak için Via yükleme paketine izin verin.</string>
+  <string name="check_install_permission">Yükleme izni reddedildi. Şimdi ayarlardan izin verilsin mi?</string>
   <string name="import_data">Verileri içe aktar</string>
+  <string name="import_data_failed">İçe veri aktarma başarısız!</string>
+  <string name="import_data_succeed">Veri başarıyla içe aktarıldı!</string>
   <string name="export_data">Verileri dışa aktar</string>
   <string name="export_data_to">Verileri şuna aktar: %s</string>
   <string name="always_restore">Her zaman geri yükle</string>

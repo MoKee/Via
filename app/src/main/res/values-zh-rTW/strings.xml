@@ -21,7 +21,7 @@
   <string name="location">允許網站存取位置</string>
   <string name="password">儲存密碼</string>
   <string name="donate">捐助 Via</string>
-  <string name="donate_details">我們利用有限的業餘時間設計了Via，雖然它並不那麼美好，但正努力前行。\n目前Via沒有任何廣告推廣，因此也沒有收入。如果你您喜歡我們的作品，可以捐贈來支持我們。\n\n所有的捐贈都將用來：提升我們的環境配置以及積極性。\n\n支付寶：2376688759@qq.com\nPayPal：wiar1824@gmail.com</string>
+  <string name="donate_details">我們利用有限的業餘時間設計了 Via，雖然它並不那麼美好，但正努力前行。\n目前 Via 沒有任何廣告推廣，因此也沒有收入。如果您喜歡我們的作品，可以捐贈來支持我們。\n\n所有的捐贈都將用來：提升我們的環境配置以及積極性。\n\n支付寶：2376688759@qq.com\nPayPal：wiar1824@gmail.com</string>
   <string name="orientation">螢幕方向</string>
   <string name="orientation_system">系統預設值</string>
   <string name="orientation_auto">自動</string>
@@ -67,12 +67,12 @@
   <string name="action_incognito">無痕模式</string>
   <string name="action_find">在網頁內尋找</string>
   <string name="download_pending">正在開始下載…</string>
-  <string name="cannot_download">僅可下載以 \"http\" 或 \"https\" 開頭的網址</string>
+  <string name="cannot_download">僅可下載以「http」或「https」開頭的網址</string>
   <string name="download_no_sdcard_dlg_title">無 SD 記憶卡</string>
   <string name="download_no_sdcard_dlg_msg">為正常下載此檔案需要 USB 儲存裝置。</string>
   <string name="download_sdcard_busy_dlg_title">USB 儲存裝置無法使用</string>
   <string name="download_sdcard_busy_dlg_msg">USB 儲存裝置目前忙碌中，在通知列輕觸關閉 USB 儲存裝置允許下載。</string>
-  <string name="message_import"> 個書籤已匯入</string>
+  <string name="message_import">書籤已匯入</string>
   <string name="custom_url">自訂網址</string>
   <string name="baidu_url">百度</string>
   <string name="shenma_url">神馬</string>
@@ -116,7 +116,7 @@
   <string name="toast_operation_done">此操作已完成</string>
   <string name="volume">按音量鍵捲動</string>
   <string name="intent">允許網站重新導向至應用程式</string>
-  <string name="msg_intent">想開啟你的應用程式嗎？</string>
+  <string name="msg_intent">想開啟您的應用程式嗎？</string>
   <string name="dialog_adblock">預設封鎖：使用本機 hosts.txt 封鎖廣告\n\n自訂封鎖：使用儲存空間裡的 hosts.txt，若不存在將下載一個此檔案。</string>
   <string name="dialog_adblock_default">預設封鎖</string>
   <string name="dialog_adblock_custom">強力封鎖</string>
@@ -279,7 +279,7 @@
   <string name="missing_webview">Android System WebView 未正確安裝。立即去安裝？</string>
   <string name="install">安裝</string>
   <string name="crash_hint">十分抱歉，程式出現了損毀。</string>
-  <string name="upload_hint">十分抱歉，程式出現了損毀。\n但你可以上傳記錄檔來協助我們做得更好，立即上傳？</string>
+  <string name="upload_hint">十分抱歉，程式出現了損毀。\n但您可以上傳記錄檔來協助我們做得更好，立即上傳？</string>
   <string name="glean">拾穗</string>
   <string name="contact_us">聯絡我們</string>
   <string name="official_website">官方網站</string>
@@ -302,10 +302,10 @@
   <string name="export_">匯出書籤</string>
   <string name="pull_to_refresh_gesture">下拉重新整理手勢</string>
   <string name="back_forward_gesture">前進後退手勢</string>
-  <string name="toolbar_settings_hint">點選(滑動)下列按鈕來設定它的按住（滑動）事件，按住查閱已經設定了什麼。</string>
+  <string name="toolbar_settings_hint">點選 (滑動) 下列按鈕來設定它的按住 (滑動) 事件，按住查閱已經設定了什麼。</string>
   <string name="action_modify">修改</string>
   <string name="operation_hint">手勢、操作習慣</string>
-  <string name="empty_ads_mark_hint">無被標記的廣告， \n你可以按住網頁中的廣告然後選擇\"標記為廣告\"封鎖它。</string>
+  <string name="empty_ads_mark_hint">無被標記的廣告， \n你可以按住網頁中的廣告然後選擇「標記為廣告」封鎖它。</string>
   <string name="empty_script_hint">無指令碼。 \n你可以點選右上角加號按鈕來新增指令碼。 \n或者僅需點選下列按鈕。</string>
   <string name="adblock_info">已封鎖 %1$d 個廣告，%2$s 已儲存</string>
   <string name="disable">未啟用</string>
@@ -329,7 +329,7 @@
   <string name="ignore">忽略</string>
   <string name="share_script">適用於 %1$s 上的指令碼，複製此訊息後開啟 Via 即可匯入。viascript{%2$s}</string>
   <string name="share_online_script">適用於 %1$s 上的指令碼，用 Via 開啟連結 %2$s 即可安裝。</string>
-  <string name="import_script">自剪貼簿匯入適用於 %1$s 的指令碼？ \n警告：指令碼可能不安全，請確認指令碼安全。\n指令碼的代碼：\n</string>
+  <string name="import_script">自剪貼簿匯入適用於 %1$s 的指令碼？ \n警告：指令碼可能不安全，請確認指令碼安全。\n指令碼的原始碼：\n</string>
   <string name="share_rule">適用於 %1$s 上的廣告封鎖規則，複製此訊息後開啟 Via 即可匯入。viarule{%2$s}</string>
   <string name="import_rule">自剪貼簿匯入適用於 %1$s 的廣告封鎖規則？</string>
   <string name="share_url">此為秘密網址，複製此訊息後開啟 Via 即可檢視。 viaurl{%1$s}</string>

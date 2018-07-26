@@ -115,6 +115,7 @@
   <string name="toast_operation_failed">A művelet sikertelen volt.</string>
   <string name="toast_operation_done">A művelet befejeződött.</string>
   <string name="volume">Görgetés a Hangerőgombokkal.</string>
+  <string name="intent">Lehetővé teszi, hogy a weboldal alkalmazásokat futtasson</string>
   <string name="msg_intent">Szeretnéd megnyitni az alkalmazásod?</string>
   <string name="dialog_adblock">Alapértelmezett Blokkolás:Helyi hosts.txt fájl hasznata reklám blokkoláshoz\n\nEgyéni Blokkolás:A tárhelyen lévő hosts.txt fájl használata, automatikusan letöltésre kerül, ha még nem létezik.</string>
   <string name="dialog_adblock_default">Alapértelmezett Blokkolás</string>
@@ -373,6 +374,8 @@
   <string name="need_permission_to_install_pkg">Apk fájlt töltesz le, kérlek adj csomagtelepítési jogosultságot a Viának ha egyből telepíteni akarod a letöltött fájlokat.</string>
   <string name="check_install_permission">Telepítési jogosultság megtagadva. Megadod most a Beállításoknál?</string>
   <string name="import_data">Adatok importálása</string>
+  <string name="import_data_failed">Meghiúsult adatimportálás!</string>
+  <string name="import_data_succeed">Sikeres adatimportálás!</string>
   <string name="export_data">Adat exportálása</string>
   <string name="export_data_to">Adatok exportálása ide: %s</string>
   <string name="always_restore">Mindig állítsa helyre</string>

@@ -27,6 +27,7 @@
   <string name="orientation_auto">Automático</string>
   <string name="orientation_portrait">Vertical</string>
   <string name="orientation_landscape">Horizontal</string>
+  <string name="agent">Agente de usuario</string>
   <string name="home">Página principal</string>
   <string name="fullscreen">Auto ocultar barras de operación</string>
   <string name="java">Activar javascript</string>
@@ -37,12 +38,17 @@
   <string name="action_delete">Eliminar</string>
   <string name="action_delete_all">Borrar todo</string>
   <string name="action_blank">Página en blanco</string>
+  <string name="agent_chrome">Chrome (PC)</string>
+  <string name="agent_ie">IE 11 (PC)</string>
+  <string name="agent_iphone">iPhone</string>
+  <string name="agent_symbian">Symbian</string>
   <string name="agent_custom">Personalizado</string>
   <string name="title_search_engine">Motor de búsqueda</string>
   <string name="action_ok">Aceptar</string>
   <string name="dialog_download">¿Quiere descargar este archivo?</string>
   <string name="action_cancel">Cancelar</string>
   <string name="title_warning">Advertencia</string>
+  <string name="title_user_agent">Agente de usuario</string>
   <string name="title_custom_homepage">Página principal personalizada</string>
   <string name="action_webpage">Página web</string>
   <string name="action_yes">Aceptar</string>
@@ -68,7 +74,17 @@
   <string name="download_sdcard_busy_dlg_msg">El almacenamiento está ocupado. Para permitir descargas, toque Desactivar Almacenamiento USB en la notificación.</string>
   <string name="message_import">Los marcadores fueron importados</string>
   <string name="custom_url">URL personalizada</string>
+  <string name="baidu_url">Baidu</string>
+  <string name="shenma_url">ShenMa</string>
+  <string name="bing_url">Bing</string>
+  <string name="haosou_url">Haosou</string>
+  <string name="duckduckgo_url">DuckDuckGo</string>
+  <string name="startpage_url">StartPage</string>
   <string name="ask_url">Preguntar</string>
+  <string name="yahoo_url">Yahoo</string>
+  <string name="yandex_url">Yandex</string>
+  <string name="google_url">Google</string>
+  <string name="sougou_url">Sougou</string>
   <string name="block_ads">Bloquear anuncios</string>
   <string name="message_untrusted_certificate">El certificado del sitio no es de confianza. ¿Continuar de todos modos?</string>
   <string name="title_form_resubmission">Reenvio de formulario</string>
@@ -87,10 +103,12 @@
   <string name="import_backup">Importar marcadores</string>
   <string name="bookmark_export_path">Marcadores exportados a\n</string>
   <string name="import_bookmark_error">No se pudo importar marcadores desde el archivo</string>
+  <string name="feedback">Comentarios de usuarios</string>
   <string name="message_add_bookmark">Marcador añadido exitosamente</string>
   <string name="message_exit">Presione una vez más para salir</string>
   <string name="web_screenshot">Captura de pantalla del sitio</string>
   <string name="screenshot_all">Todas las versiones</string>
+  <string name="screenshot_now">Visible</string>
   <string name="dialog_message">Mensaje</string>
   <string name="toast_wait_a_minute">Espere un momento&#8230;</string>
   <string name="toast_save_to">Guardar archivo a: </string>
@@ -241,6 +259,7 @@
   <string name="fullscreen_0">Desactivar</string>
   <string name="fullscreen_1">Deslizar para ocultar/mostrar</string>
   <string name="fullscreen_2">Tocar para ocultar/mostrar</string>
+  <string name="settings_script">Líneas de comandos</string>
   <string name="get_more_script">Obtener más scripts</string>
   <string name="add_script">Añadir script</string>
   <string name="script_url">dominio o * (* significa todo)</string>
@@ -252,6 +271,7 @@
   <string name="confirm_to_leave">Confirmar dejar</string>
   <string name="leave">Dejar</string>
   <string name="stay">Permanecer</string>
+  <string name="skin_logo">Logotipo</string>
   <string name="skin_bg">Fondo de pantalla</string>
   <string name="skin_style">Estilo</string>
   <string name="skin_settings">Configuración</string>
@@ -273,6 +293,7 @@
   <string name="action_open_in_background">Abrir en segundo plano</string>
   <string name="cannot_work">Solamente puede funcionar con URLs \"http\" o \"https\".</string>
   <string name="action_fullscreen">Pantalla completa</string>
+  <string name="action_ua">Agente de usuario</string>
   <string name="settings_general">General</string>
   <string name="no_bookmark">Sin marcadores~</string>
   <string name="import_or_export_bookmarks">Importar/Exportar marcadores</string>
@@ -289,8 +310,10 @@
   <string name="adblock_info">%1$d anuncios bloqueados, %2$s ahorrado</string>
   <string name="disable">Desactivar</string>
   <string name="ui_traditional">Tradicional</string>
+  <string name="ui_simple">Simple</string>
   <string name="color_mode_hint">Color de las barras al navegar</string>
   <string name="sort_hint">Mantenga presionado y arrastre para ordenar</string>
+  <string name="action_sort_bookmarks">Marcadores de tipo</string>
   <string name="desc_close">Cerrar</string>
   <string name="clear_cache_on_exit">Limpiar caché al salir</string>
   <string name="action_close_all_tabs">Cerrar todas las pestañas</string>
@@ -350,4 +373,13 @@
   <string name="set_ua_as">Establecer User Agent actual como %s</string>
   <string name="need_permission_to_install_pkg">Está descargando un archivo apk, por favor dele a Via el permiso de instalación de paquetes para asegurarse de que puede instalar los archivos descargados.</string>
   <string name="check_install_permission">Permiso de instalación denegado. ¿Establecerlo en los ajustes ahora?</string>
+  <string name="import_data">Importación de datos</string>
+  <string name="import_data_failed">Error al importar datos!</string>
+  <string name="import_data_succeed">¡Datos importados con éxito!</string>
+  <string name="export_data">Exportación de datos</string>
+  <string name="export_data_to">Exportar datos a: %s</string>
+  <string name="always_restore">Siempre restaurar</string>
+  <string name="ask_first">Preguntar primero</string>
+  <string name="disable_restore">Desactivar Restauración</string>
+  <string name="data_file">DataExport</string>
 </resources>
